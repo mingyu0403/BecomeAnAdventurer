@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 7b9a9cc53b36bbc409f203425f6503ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm_L_1
+    100002: arm_L_2
+    100004: arm_R_1
+    100006: arm_R_2
+    100008: body
+    100010: chest
+    100012: cloth_back_L_1
+    100014: cloth_back_L_2
+    100016: cloth_back_L_3
+    100018: cloth_back_R_1
+    100020: cloth_back_R_2
+    100022: cloth_back_R_3
+    100024: cloth_front_L_1
+    100026: cloth_front_L_2
+    100028: cloth_front_L_3
+    100030: cloth_front_R_1
+    100032: cloth_front_R_2
+    100034: cloth_front_R_3
+    100036: cloth_side_L_1
+    100038: cloth_side_L_2
+    100040: cloth_side_L_3
+    100042: cloth_side_R_1
+    100044: cloth_side_R_2
+    100046: cloth_side_R_3
+    100048: feather_1
+    100050: feather_2
+    100052: feather_3
+    100054: finger_L_1
+    100056: finger_L_2
+    100058: finger_R_1
+    100060: finger_R_2
+    100062: hand_L
+    100064: hand_R
+    100066: head
+    100068: leg_L_1
+    100070: leg_L_2
+    100072: leg_L_3
+    100074: leg_R_1
+    100076: leg_R_2
+    100078: leg_R_3
+    100080: //RootNode
+    100082: root
+    100084: shpaga
+    100086: tail_1
+    100088: tail_2
+    100090: tail_3
+    400000: arm_L_1
+    400002: arm_L_2
+    400004: arm_R_1
+    400006: arm_R_2
+    400008: body
+    400010: chest
+    400012: cloth_back_L_1
+    400014: cloth_back_L_2
+    400016: cloth_back_L_3
+    400018: cloth_back_R_1
+    400020: cloth_back_R_2
+    400022: cloth_back_R_3
+    400024: cloth_front_L_1
+    400026: cloth_front_L_2
+    400028: cloth_front_L_3
+    400030: cloth_front_R_1
+    400032: cloth_front_R_2
+    400034: cloth_front_R_3
+    400036: cloth_side_L_1
+    400038: cloth_side_L_2
+    400040: cloth_side_L_3
+    400042: cloth_side_R_1
+    400044: cloth_side_R_2
+    400046: cloth_side_R_3
+    400048: feather_1
+    400050: feather_2
+    400052: feather_3
+    400054: finger_L_1
+    400056: finger_L_2
+    400058: finger_R_1
+    400060: finger_R_2
+    400062: hand_L
+    400064: hand_R
+    400066: head
+    400068: leg_L_1
+    400070: leg_L_2
+    400072: leg_L_3
+    400074: leg_R_1
+    400076: leg_R_2
+    400078: leg_R_3
+    400080: //RootNode
+    400082: root
+    400084: shpaga
+    400086: tail_1
+    400088: tail_2
+    400090: tail_3
+    7400000: musketeer_stun
+    7400002: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
